@@ -1,0 +1,19 @@
+
+# Android Studio
+.idea/
+.gradle/
+build/
+**/build/
+*.iml
+
+# Local configuration
+local.properties
+*.log
+build-error.txt
+
+# Secrets and signing
+*.jks
+*.keystore
+*.hprof
+.env
+.env.*
